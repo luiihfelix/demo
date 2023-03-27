@@ -6,6 +6,7 @@
 
 2. Syncing commits from github to my computer
 
-
+3. Forcing an error to merge
 
 4. Testing the merge
+
